@@ -1,0 +1,5 @@
+name: Item_Me_Revamped
+main: org.bundle_me.item_me_revamped.ItemMePlugin
+version: 1.0.0
+author: SwitchGM_
+api-version: 1.13
